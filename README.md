@@ -50,6 +50,8 @@ python chatbot.py
 
 ### How to Use
 
+<img width="1004" alt="Screenshot 2024-11-18 at 9 32 08 PM" src="https://github.com/user-attachments/assets/a0da002c-f05f-490b-91fc-d94759365453">
+
 - Type a message into the terminal to chat with the bot.
 - The chatbot will respond (sometimes unintelligently) using OpenAI's GPT model.
 
